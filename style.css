@@ -1,7 +1,3 @@
-body {
-    text-align: center;
-    font-family: 'Quicksand', sans-serif; /* Verwende die 'Quicksand'-Schriftart für den Text im Body */
-}
 *{
     margin: 0;
     padding: 0;
@@ -30,8 +26,10 @@ body {
 h1 {
     font-family: 'Quicksand', sans-serif; 
     font-size: 48px;
+    text-align: center;
 }
 h2 {
     font-family: 'Quicksand', sans-serif;
     font-size: 24px;
+    text-align: center;
 }
