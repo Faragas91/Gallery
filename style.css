@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif; /* Verwende die 'Quicksand'-Schriftart für den Text im Body */
+}
 *{
     margin: 0;
     padding: 0;
@@ -21,4 +25,13 @@
 }
 .gallery img{
     width: 100%;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif; 
+    font-size: 48px;
+}
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
 }
